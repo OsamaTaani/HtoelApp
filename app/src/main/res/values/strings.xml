@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string name="submenu_item1">Item 1</string>
+    <string name="submenu_item2">Item 2</string>
+
+</resources>
